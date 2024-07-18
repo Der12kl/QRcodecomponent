@@ -14,7 +14,7 @@ You can view the live demo [here](https://der12kl.github.io/QRcodecomponent/).
 1. Clone the repository:
     
     ```sh
-    git clone https://github.com/your-username/qrcodecomponent.git
+    git clone https://github.com/Der12kl/QRcodecomponent.git
     cd qrcodecomponent
     ```
 
@@ -61,3 +61,6 @@ If you would like to contribute to this project, please follow these steps:
 5. Submit a pull request with a detailed description of your changes.
 
 Thank you for your contributions!
+
+Contact
+Evgeny - superlern4@gmail.com
