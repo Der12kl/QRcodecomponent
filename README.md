@@ -62,7 +62,3 @@ If you would like to contribute to this project, please follow these steps:
 
 Thank you for your contributions!
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6a90ec9df873c9ef2589e476b86ecf7c66ed9969
